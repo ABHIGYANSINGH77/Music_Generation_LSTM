@@ -8,8 +8,6 @@ Dependencies:
 
 -> SciPy
 
--> Pandas
-
 -> Matplotlib
 
 
