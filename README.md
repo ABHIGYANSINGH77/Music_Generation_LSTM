@@ -5,13 +5,18 @@ Creating Jazz Music using LSTM model.
 Dependencies:
 
 -> NumPy
+
 -> SciPy
+
 -> Pandas
+
 -> Matplotlib
+
 
 In addition to the above dependencies,you'll need a couple of specialized music libraries for Python:
 
 -> music21 - for MIDI data extraction
+
 -> grammar - Extract, manipulate, process musical grammar
              Author:     Ji-Sung Kim, Evan Chow
              Project:    jazzml / (used in) deepjazz
